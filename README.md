@@ -8,7 +8,7 @@ https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powers
 
 Install-Module -Name PowerShell-YAML -Force 
 
-run script
+#run script
 
  .\sca_csv.ps1
 
