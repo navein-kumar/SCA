@@ -1,6 +1,10 @@
 Pre-Req
 
-Install-Module -Name PowerShell-YAML -Force -Scope CurrentUser
+Install powershell 7  
+https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.5
+
+#install yaml module
+Install-Module -Name PowerShell-YAML -Force 
 
 run script
  .\sca_csv.ps1
